@@ -1,20 +1,20 @@
-title:            Site Title
+title:            TAMIMI's BLOG
 description:      Describe your website here.
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# Your site's domain goes here 
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: http://tamim.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Ahmad Tamimi
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "I'm engineer, entrepreneur, like to try new things, so expect a smoothie mix blog."
+  email:          ahmad@tamim.io
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter: @engr_tamimi       
   facebook:       
   github:         
   stackexchange:  
@@ -23,13 +23,13 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:
 
 # Background image to be tiled on all pages
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: UA-60390950-1  
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
