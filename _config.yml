@@ -1,6 +1,6 @@
 title:            TAMIMI's BLOG
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+description:      A blog to share what I know.
+disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here 
@@ -14,7 +14,7 @@ owner:
   bio:            "I'm engineer, entrepreneur, like to try new things, so expect a smoothie mix blog."
   email:          ahmad@tamim.io
   # Social networking links used in footer. Update and remove as you like.
-  twitter: @engr_tamimi       
+  twitter: https://twitter.com/engr_tamimi      
   facebook:       
   github:         
   stackexchange:  
