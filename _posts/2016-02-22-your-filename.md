@@ -5,7 +5,6 @@ published: true
 
 ## Test post
 
-![imaaaage]({{site.baseurl}}/http://www.roadtovr.com/wp-content/uploads/2016/01/htc-vive-pre-system.jpg)
 
 <figure class="yyy">
 	<a href="http://www.roadtovr.com/wp-content/uploads/2016/01/htc-vive-pre-system.jpg"><img src="http://www.roadtovr.com/wp-content/uploads/2016/01/htc-vive-pre-system.jpg" alt=""></a>
