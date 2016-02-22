@@ -1,7 +1,8 @@
 # Menu navigation links
+- title: Haven't decided yet
 
-- title: Theme Setup
-  url: /theme-setup/
+#- title: Theme Setup
+#  url: /theme-setup/
 
-- title: External Link
-  url: http://mademistakes.com
+#- title: External Link
+# url: http://mademistakes.com
