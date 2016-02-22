@@ -4,7 +4,7 @@ published: true
 
 
 ## Test post
-![tttest]({{site.baseurl}}/https://www.amazon.com/clouddrive/share/HMgBKcrS5mQSs0omtDkyLljYDVB0f1abs32h39aHvOx?ref_=cd_ph_share_link_copy)
+![tttest]({{site.baseurl}}/http://www.roadtovr.com/wp-content/uploads/2016/01/htc-vive-pre-system.jpg
 
 **for testing**
 _duh_
