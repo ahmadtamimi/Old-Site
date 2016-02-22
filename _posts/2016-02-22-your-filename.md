@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Test post
 ![tttest]({{site.baseurl}}/https://www.amazon.com/clouddrive/share/HMgBKcrS5mQSs0omtDkyLljYDVB0f1abs32h39aHvOx?ref_=cd_ph_share_link_copy)
@@ -12,6 +13,3 @@ _duh_
 1. 111
 2. 2222
 3. 999
-
-
-
