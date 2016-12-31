@@ -13,7 +13,8 @@ published: true
 
 This is just a personal blog for my creative ideas and other stuff!
 
-It is built with Jekyll, A simple, blog-aware, static site generator. [Jekyll](https://jekyllrb.com)
-The theme credit goes for [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme)
+It is built with Jekyll, A simple, blog-aware, static site generator [Jekyll](https://jekyllrb.com).
+
+The theme credit goes for [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme).
 
 
