@@ -69,7 +69,7 @@ And you'll get something that looks like this:
 </figure>
 
 "
-date: 2013-05-23 00:00:00 -04:00
+date: 2013-05-22 00:00:00 -04:00
 tags:
 - sample post
 - readability
